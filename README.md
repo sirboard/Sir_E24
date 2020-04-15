@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.org/blemasle/arduino-e24.svg?branch=master)](https://travis-ci.org/blemasle/arduino-e24)
-[![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)](http://doge.mit-license.org)
-
-# E24
+# Sir E24 Series
 
 This library allows to store and read arbitrary data from the Microship's [24LCxxx](https://www.microchip.com/wwwproducts/en/en010828) series using I2C. It supports all the available EEPROM sizes from 8K to 512K, although only 256K and 512K have been tested.
 
